@@ -2,8 +2,8 @@
 ### Register No - 212222020008
 ### Name - Harini B
 
-# EX: 4.1 Dictionary
-### Aim: Write a Python script to check whether a given key  5,9 already exists in a dictionary. d = {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+# ExNo: 4.1 Dictionary
+### Aim: To write a Python script to check whether a given key  5,9 already exists in a dictionary. d = {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -34,8 +34,8 @@ for i in keys:
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 4.2 Exception
-### Aim: write a python program for the solution of value error in exception handling and check whether the number is even or odd.
+# ExNo: 4.2 Exception
+### Aim: To write a python program for the solution of value error in exception handling and check whether the number is even or odd.
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -70,8 +70,8 @@ else:
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 4.4 Classes and Objects 
-### Aim: Write a Python class which has two methods get_String and print_String. get_String accept a string from the user and print_String print the string in upper case.
+# ExNo: 4.4 Classes and Objects 
+### Aim: To Write a Python class which has two methods get_String and print_String. get_String accept a string from the user and print_String print the string in upper case.
 ### Algorithm:
 
 **STEP 1:** Start.
