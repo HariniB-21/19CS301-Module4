@@ -114,7 +114,7 @@ manipulator.print_string()
 
 ### Result: Thus, the given program is implemented and executed successfully.
 
-#Ex No:4.5 SEB-Binary Number
+# Ex No:4.5 SEB-Binary Number
 ### Aim:
 To write a Python program to print the binary equivalent of a given number using the built-in `bin()` function.
 
