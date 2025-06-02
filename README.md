@@ -112,4 +112,29 @@ manipulator.print_string()
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/185ddc06-c8fe-4197-a6c2-abb24cebcb69)
 
-### Result: Thus, the given program is implemented and executed successfully .
+### Result: Thus, the given program is implemented and executed successfully.
+
+#Ex No:4.5 SEB-Binary Number
+### Aim:
+To write a Python program to print the binary equivalent of a given number using the built-in `bin()` function.
+
+### Algorithm:
+
+**STEP 1:** Start.  
+**STEP 2:** Assign a number to variable `a`.  
+**STEP 3:** Use `bin(a)` to convert the number to its binary representation.  
+**STEP 4:** Print the result.  
+**STEP 5:** Stop.
+
+### Program:
+```python
+a = 25
+print(bin(a))
+```
+###Output:
+![image](https://github.com/user-attachments/assets/c19b2212-3c4f-4b55-a595-d5d1d07a2f07)
+
+### Result:
+Thus the program was executed successfully.
+
+
